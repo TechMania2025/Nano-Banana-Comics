@@ -23,3 +23,11 @@ Nossa ferramenta oferece um conjunto robusto de funcionalidades para levar sua c
 O coração do Nano Banana Comics é a **tecnologia Nano Banana**, um modelo de IA generativa de última geração, especializado em narrativa visual e consistência de estilo. Ele foi treinado com milhões de referências de arte e literatura para entender a linguagem dos quadrinhos, garantindo que cada criação não seja apenas bonita, mas também coesa e impactante.
 
 Com o Nano Banana Comics, o único limite é a sua imaginação. Crie HQs incríveis e compartilhe suas histórias com o mundo.
+
+
+Run Locally
+Prerequisites: Node.js
+
+Install dependencies: npm install
+Set the GEMINI_API_KEY in .env.local to your Gemini API key
+Run the app: npm run dev
