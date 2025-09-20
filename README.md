@@ -24,10 +24,14 @@ O coração do Nano Banana Comics é a **tecnologia Nano Banana**, um modelo de 
 
 Com o Nano Banana Comics, o único limite é a sua imaginação. Crie HQs incríveis e compartilhe suas histórias com o mundo.
 
+-------------------------------------------------------
 
 Run Locally
+
 Prerequisites: Node.js
 
 Install dependencies: npm install
+
 Set the GEMINI_API_KEY in .env.local to your Gemini API key
+
 Run the app: npm run dev
